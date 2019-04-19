@@ -1,0 +1,4 @@
+body, input, .flatpickr-calendar, .flatpickr-calendar .cur-month {
+  font-family: Roboto !important;
+  font-size: 14px;
+}
